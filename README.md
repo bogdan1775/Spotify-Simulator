@@ -1,4 +1,4 @@
-# Proiect GlobalWaves  - Etapa 3
+# Spotipy Simulator
 # Croitoru Constantin-Bogdan
 # Grupa 324CA
 
