@@ -1,4 +1,4 @@
-# Spotipy Simulator
+# Spotify Simulator
 # Croitoru Constantin-Bogdan
 # Grupa 324CA
 
